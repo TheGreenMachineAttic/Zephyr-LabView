@@ -599,8 +599,6 @@ KeepAliveTimeout 60
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Shifter state.ctl" Type="VI" URL="../../../../My Documents/LabVIEW Data/Zeebo/Shifter state.ctl"/>
-			<Item Name="Claw state global.vi" Type="VI" URL="../../../../My Documents/LabVIEW Data/Zeebo/Claw state global.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
